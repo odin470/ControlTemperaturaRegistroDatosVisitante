@@ -11,4 +11,6 @@ Para comenzar con nuestro proyecto necesitaras:
 - Cables Jumper 40 Pcs x 10 cms Macho a Macho https://altronics.cl/jumper-macho-macho-10m-40pcs
 - Protoboard Breadboard de 400 puntos https://altronics.cl/protoboard-400ptos
 
+Con eso podrán comenzar a desarrollar luego compraremos los demás dispositivos para que hable, escuche y tenga una pantalla para mostrar información. Además de la caja que contendrá todo a prueba de extremo calor y lluvia 
+
 En chile compro todo en un ecommerce llamado Altronic los cuales envian a todo chile de forma muy rapida y el hardware es muy barato.
